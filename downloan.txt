@@ -1,0 +1,1 @@
+python（anaconda）下载,选择对应的版本: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
